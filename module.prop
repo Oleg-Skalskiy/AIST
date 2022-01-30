@@ -1,8 +1,0 @@
-id=AIST
-name=AIST for devices based on Qualcomm
-version=v1.4
-versionCode=16
-author=Oleg_Skalskiy
-description=This module Improving Audio Quality On Android.
-support=https://t.me/AIST_SUPPORT
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json

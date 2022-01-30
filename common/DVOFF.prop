@@ -1,0 +1,4 @@
+audio.dolby.vision.support=false
+vendor.audio.dolby.vision.support=false
+ro.audio.dolby.vision.support=false
+ro.vendor.audio.dolby.vision.support=false

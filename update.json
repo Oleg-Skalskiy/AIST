@@ -1,6 +1,6 @@
 {
-  "version": "v1.4.20",
-  "versionCode": 20,
+  "version": "v1.4.21",
+  "versionCode": 21,
   "zipUrl": "https://raw.githubusercontent.com/Oleg-Skalskiy/AIST/main/install.zip",
   "changelog": "https://raw.githubusercontent.com/Oleg-Skalskiy/AIST/main/AIST_OTA.md"
 }

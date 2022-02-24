@@ -2,14 +2,13 @@
 
 * Sound changes
   * Added multichannel options
-  * Added ability to disable Dolby Vision Audio
+  * Added the ability to disable Dolby Vision Audio during installation.
   * Added the ability to enable Dolby Atmos Presets (does not work for everyone)
-  * Removed speaker and microphone volume boost items (Doesn't make sense)
-  * Disabled 3D and 4D audio effect in games (Without them, the sound is much better, does not distort the true sound)
+  * Disabled 3D & 4D audio effect in games (Without them, the sound is much better, does not distort the true sound)
   * Disabled extra reverb
-  * Fixed bugs in POCO X3 NFC and Mi A3
+  * Fixed bugs in POCO X3 NFC & Mi A3
   * Fixed issues with output via Direct
-  * Reconfigured sound and fixed sound quality
+  * Reconfigured sound & fixed sound quality
   * Minor edits
 * In item Other
   * Fixed excessive battery consumption

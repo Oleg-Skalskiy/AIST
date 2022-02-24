@@ -11,7 +11,7 @@
   * Fixed issues with output via Direct
   * Reconfigured sound and fixed sound quality
   * Minor edits
-* In paragraph Miscellaneous (Other)
+* In item Other
   * Fixed excessive battery consumption
   * Fixed statistics
   * New modem options

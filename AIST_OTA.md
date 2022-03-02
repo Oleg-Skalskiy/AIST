@@ -1,4 +1,4 @@
-### AIST v1.4 - 01.03.2022
+### AIST v1.4 - 03.03.2022
 
 * Sound changes
   * Added multichannel options
@@ -10,7 +10,12 @@
   * Fixed issues with output via Direct
   * Reconfigured sound & fixed sound quality
   * Minor edits
+  * Reduced power consumption.
+  * Improved microphones 
 * In item Other
+  * Improved system smoothness
+  * Removed waste parameters 
+  * Fixed System Error
   * Fixed excessive battery consumption
   * Fixed statistics
   * New modem options

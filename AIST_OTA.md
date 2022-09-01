@@ -1,31 +1,34 @@
-### AIST v1.5 - 09.05.2022
+### AIST v1.6 - 01.09.2022
 
 * Sound changes
-  * Del Custom IIR
-  * Fix APTX Adaptive
-  * Fix Bluetooth Offload
+  * Fix Fixing 96 or 192 kHz
+  * Fix Bluetooth Audio Frame
   * Fix TWS+
-  * ADD item FIXING 96kHz out
-  * Bypass Compress Offload
-  * Dolby Vision Off (audio) (Off default)
-  * Edit Dolby Config
-  * New Bluetooth Parametrs
-  * Low Power Audio OFF
-  * Fix USB Offload
-  * Reduced power consumption.
+  * Improved Stability
+  * Fix Direct output
+  * Fix Offload
+  * Fix 24 bit mode
+  * Fix Surround Effect
+  * Fix Camera Error
+  * New option for Xiaomi and Realme
+  * Oxygen 12 Support (TEST)
   * Minor edits
 * In item Other
   * Improved system smoothness
   * New Camera Parametrs
-  * New Systems Parametrs 
+  * New Systems Parametrs
+  * Add New Video Mode
+  * Add New Radio Mode
   * Removed waste parameters
   * Fixed System Error
   * Fixed excessive battery consumption
   * Fixed statistics
-  * Fix MIUI tweaks
-  * Fixed FPS work
-  * Removed conflicting display options
-  * Fixed LMK work
+  * Fix FPS
   * Added new options for MIUI
-  * FIX OFF ATracing 
-  * Minor edits 
+  * FIX OFF Logging
+  * Minor edits
+* General
+  * Add remove dalvik-cache, cache, logs & traces after installation
+  * Minor edits
+
+  

@@ -1,4 +1,4 @@
-### AIST v1.6 - 01.09.2022
+### AIST v1.6 - 09.09.2022
 
 * Sound changes
   * Fix Fixing 96 or 192 kHz

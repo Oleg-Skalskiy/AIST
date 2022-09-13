@@ -26,6 +26,7 @@
   * Fix FPS
   * Added new options for MIUI
   * FIX OFF Logging
+  * FIX reboots
   * Minor edits
 * General
   * Add remove dalvik-cache, cache, logs & traces after installation

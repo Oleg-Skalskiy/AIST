@@ -1,4 +1,4 @@
-### AIST v1.6 - 09.09.2022
+### AIST v1.6 - 20.09.2022
 
 * Sound changes
   * Fix Fixing 96 or 192 kHz
@@ -27,7 +27,7 @@
   * Added new options for MIUI
   * FIX OFF Logging
   * FIX reboots
-  * Minor edits
+  * Minor edits (SSR)
 * General
   * Add remove dalvik-cache, cache, logs & traces after installation
   * Minor edits

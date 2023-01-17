@@ -1,4 +1,4 @@
-### AIST v1.7 - 01.01.2023
+### AIST v1.7 - 17.01.2023
 
 * Sound changes
   * Fix Fixing 96 or 192 kHz
@@ -9,7 +9,8 @@
   * Fix Camera Error
   * BPF LPF HPF is OFF
   * Fix Camera Error
-  * Fix Camera Error
+  * Fix Microphone For VOIP
+  * Fix Bluetooth Error
   * New option for Xiaomi and Realme
   * Oxygen 12 Support
   * Minor edits
@@ -26,4 +27,5 @@
   * FIX Radio Parametrs (Modem)
 * General
   * Fix Code
+  * Fix Some Error
   * Minor edits

@@ -1,30 +1,29 @@
-### AIST v1.7 - 17.01.2023
+### AIST v1.8 - 09.05.2023
 
 * Sound changes
   * Fix Fixing 96 or 192 kHz
-  * Fix Bluetooth Error
-  * Fix Dolby Error
+  * Updated Bluetooth Parametrs
+  * Updated Dolby Parametrs
   * Improved Stability
   * Fix Surround Effect
-  * Fix Camera Error
-  * BPF LPF HPF is OFF
-  * Fix Camera Error
-  * Fix Microphone For VOIP
-  * Fix Bluetooth Error
-  * New option for Xiaomi and Realme
-  * Oxygen 12 Support
+  * Fix Mixer Error
+  * Add New Sound Parameters
+  * Fix Microphone
+  * Fix Direct Output
+  * OFF LeAudio (So far it only makes the sound worse)
+  * New option for Xiaomi and BBK
+  * BBK Group Devices Support
   * Minor edits
 * In item Other
   * Improved system smoothness
   * New Camera Parametrs
   * New Systems Parametrs
-  * Fix Display Mode (Paper Mode)
   * Removed waste parameters
-  * Fixed System Error
+  * Updated Radio(Modem) Parametrs
   * Fixed excessive battery consumption
   * Added new options for MIUI
   * FIX OFF Logging
-  * FIX Radio Parametrs (Modem)
+  * Minor edits
 * General
   * Fix Code
   * Fix Some Error

@@ -1,4 +1,4 @@
-### AIST v1.9 - 23.09.2023
+### AIST v1.9 - 25.09.2023
 
 * Sound changes
 		* Fix Fixing 48 or 96 kHz / Float or 24 bit
@@ -25,6 +25,7 @@
 		* Added new options for MIUI
 		* FIX OFF Logging
 		* Minor edits
+		* Fix SSR (25.09)
 * General
 		* Fix Code
 		* Fix Some Error

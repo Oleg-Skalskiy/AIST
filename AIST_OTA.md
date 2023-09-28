@@ -1,4 +1,4 @@
-### AIST v1.9 - 25.09.2023
+### AIST v1.9 - 28.09.2023
 
 * Sound changes
 		* Fix Fixing 48 or 96 kHz / Float or 24 bit
@@ -14,6 +14,7 @@
 		* Echo Reference OFF
 		* Multi-Voice Channel fix
 		* Fix Lags
+		* Fix AudioPolicy (28.09)
 		* Minor edits
 * In item Other
 		* Improved system smoothness

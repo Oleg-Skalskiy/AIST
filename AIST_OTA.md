@@ -1,4 +1,4 @@
-### AIST v2.0 - 01.07.2023
+### AIST v2.0 - 01.07.2024
 
 * Sound changes
 		* Fix Fixing 48 or 96 kHz / Float or 24 bit
